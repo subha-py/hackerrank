@@ -64,6 +64,7 @@ def minimumSwaps(arr):
             swap_count += 1
     return swap_count
 
+
 if __name__ == '__main__':
     alist = [1, 3, 5, 2, 4, 6, 7]
     res = minimumSwaps(alist)

@@ -57,7 +57,6 @@ def arrayManipulation(n, inputs):
 
 if __name__ == '__main__':
     n = 10
-    num_of_queries = 3
     queries = [
         [2, 6, 8],
         [3, 5, 7],
